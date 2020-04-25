@@ -1,4 +1,4 @@
-# express-react-boilerplate
+# express-react-quickstart
 
 This is a quick-start client/server app and using [React.js](https://reactjs.org/) and [Express.js](https://expressjs.com/)
 
@@ -7,8 +7,8 @@ This is a quick-start client/server app and using [React.js](https://reactjs.org
 ## Set Up
 
 ```bash
-git clone https://github.com/dudewheresmycode/express-react-boilerplate.git
-cd express-react-boilerplate
+git clone https://github.com/dudewheresmycode/express-react-quickstart.git
+cd express-react-quickstart
 yarn
 ```
 
