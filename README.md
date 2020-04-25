@@ -2,7 +2,7 @@
 
 This is a quick-start client/server app and using [React.js](https://reactjs.org/) and [Express.js](https://expressjs.com/)
 
-![gif](https://media.giphy.com/media/3orif144Rtgy2MxJNS/giphy.gif)
+![gif](https://media.giphy.com/media/1ffOwHDZehVb6JlRid/giphy.gif)
 
 ## Set Up
 

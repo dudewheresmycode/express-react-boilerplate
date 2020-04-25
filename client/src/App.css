@@ -2,26 +2,6 @@
   text-align: center;
 }
 
-/* .App-logo-stack {
-  position: relative;
-  width: 40vmin;
-  height: 40vmin;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.App-logo {
-  position: absolute;
-  width: 15vmin;
-  height: 15vmin;
-  pointer-events: none;
-}
-.App-logo:last-child {
-  left: 50%;
-  top: 50%;
-  width: 10vmin;
-  height: 10vmin;
-} */
 .App-logo-stack {
   display: flex;
   justify-content: center;
@@ -36,9 +16,6 @@
   pointer-events: none;
 }
 .App-logo.logo-express {
-  background-image: url('https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png');
-  background-size: contain;
-  background-repeat: no-repeat;
   width: 25vmin;
   height: 25vmin;
   margin: 0 10vmin;
@@ -50,12 +27,6 @@
   }
   .App-logo:first-child {
   }
-  /* .App-logo:last-child {
-    animation: App-logo-spin infinite 2s linear;
-    transform-origin: top left;
-    animation-direction: reverse;
-
-  } */
 }
 
 .App-header {

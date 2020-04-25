@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
+import express from './express.svg';
 import './App.css';
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="App-logo-stack">
-          <div className="App-logo logo-express"></div>
+          <img src={express} className="App-logo logo-express" alt="express" />
           <span>&#43;</span>
           <img src={logo} className="App-logo logo-react" alt="logo" />
         </div>
