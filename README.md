@@ -18,7 +18,7 @@ Now that everything's installed, we can start everything with one command:
 yarn develop
 ```
 
-This starts the React app [development mode](https://github.com/facebook/create-react-app#npm-start-or-yarn-start), and the server with `nodemon` to watch for file changes. Easy right?
+This starts the React app [development mode](https://github.com/facebook/create-react-app#npm-start-or-yarn-start), and the server with [`nodemon`](https://nodemon.io/) to watch for file changes. Easy right?
 
 
 This project uses [yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) to separate the `/client` and `/server` dependencies. Which allows us to install everything we need with one `yarn` command.
